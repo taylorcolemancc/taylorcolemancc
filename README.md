@@ -9,6 +9,5 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/taylorcolemancc/Configuring-On-premises-Active-Directory-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/taylorcolemancc/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 
-<h2>🤳Connect with me:</h2>
+<h2>🤳Connect with me:</h2> [Indeed]: https://profile.indeed.com/?hl=en_US&co=US&from=gnav-jobseeker-profile--profile-one-frontend
 
-[Indeed]: https://profile.indeed.com/?hl=en_US&co=US&from=gnav-jobseeker-profile--profile-one-frontend
