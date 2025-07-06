@@ -11,5 +11,4 @@
 
 <h2>🤳Connect with me:</h2>
 
-
 [Indeed]: https://profile.indeed.com/?hl=en_US&co=US&from=gnav-jobseeker-profile--profile-one-frontend
